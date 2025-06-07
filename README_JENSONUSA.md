@@ -9,8 +9,6 @@ This repository features a complete **BikeStores** sample database setup and a c
 
 -  [`create objects.sql`](./BikeStores%20Sample%20Database%20-%20create%20objects.sql): Script to create all tables and constraints  
 -  [`load data.sql`](./BikeStores%20Sample%20Database%20-%20load%20data.sql): Script to insert sample data  
--  [`Jenson USA_SQL_Projects.pdf`](./Jenson%20USA_SQL_Projects.pdf): PDF containing business questions, insights, and query examples
-
 ---
 
 ## Database Structure
